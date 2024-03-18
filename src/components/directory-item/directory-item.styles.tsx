@@ -72,5 +72,6 @@ export const BackgroundImage = styled.div<BackgroundImageProps>`
 
     @media screen and (max-width: 800px) {
         height: 200px;
+        width: 200px;
     }
 `;
